@@ -1,0 +1,6 @@
+celebA/
+rake_env/
+discriminator.pth/
+generator.pth/
+
+generator.pth
